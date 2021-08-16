@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "author": [],
+      "contents": "\r\nI am a food and agriculture researcher with a background in management consulting. I like big questions: What should we eat? How should we use our land? I also like detail questions: How can I calculate this value for every group in my data? How can I get rid of those funky symbols in that variable? I use quantitative methods to understand how we can motivate and evaluate changes that we believe will have positive social and environmental such as adopting new technologies, farming practices, reducing food waste and changing diets. I use R to make my job easier and to try to make my analysis transparent and reusable. I also enjoy teaching R and recently became an RStudio certified tidyverse instructor.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-16T15:03:45+01:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-16T15:03:46+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Bethan Thompson",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          BETHAN THOMPSON\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Bethan Thompson\r\n          \r\n          \r\n            \r\n              I am a food and agriculture researcher based in Edinburgh, UK. I am a cooker of curries, walker of dogs and wrangler of a toddler. I recently became an RStudio certified tidyverse instructor.\r\n            \r\n            \r\n              I am a food and agriculture researcher based in Edinburgh, UK. I am a cooker of curries, walker of dogs and wrangler of a toddler. I recently became an RStudio certified tidyverse instructor.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-08-16T15:03:46+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

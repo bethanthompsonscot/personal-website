@@ -1,0 +1,46 @@
+---
+title: "Resources for learning R"
+description: |
+  Where to start when learning R and sources of help for more advanced topics.
+author:
+  - name: Bethan Thompson
+date: 04-20-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+One motivation for this blog is to have a place to organise links to all my favourite R learning resources. As I've delved deeper into data science I found so many people's blogs useful, in particular links to other resources, so I figured this is a good place to start. I also find myself sending students learning R the same links time again - so now there's one link to rule them all!
+
+## Where to start? 
+
+All of these use the [`tidyverse`](https://www.tidyverse.org/) approach which I think if you start as a non-programmer is the easiest and most accessible way to get up and running. 
+
+## Moving on with R
+
+There are so many great websites and blogs on all sorts of topics. I follow a lot of #rstats on twitter and but I've often just come across them by googling when I came across a problem I couldn't solve.
+
+### Iteration
+Googling was how I came across [Rebecca Barter's](https://twitter.com/rlbarter) article on [purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/) which I have since been back to many times! Similar with [Ariel Muldoon](https://twitter.com/aosmith16) whose article on [automating exploratory plots](https://aosmith.rbind.io/2018/08/20/automating-exploratory-plots/) helped me be much more efficient. Both of these blogs have a number of helpful posts on trickier topics. Recently I've found [Nick Tierney's](https://twitter.com/nj_tierney) blog which has lots of super short nifty posts like [this one](https://www.njtierney.com/post/2018/02/28/three-r-tips/). 
+
+### Using git
+
+Using git was something I think I was shamed into by an old colleague - thanks [Mike](https://twitter.com/MikeRSpencer) - since I had exactly the crazy document versioning he described in a talk. I did not at first understand how this would help me until I experienced the zen feeling that comes from only having only the latest version of a document in a folder yet access to v1 to v345 available at the touch of a button. As someone without a programming background I found most of the introduction to git materials intimidating and I have only ever used [Jenny Brian's](https://twitter.com/JennyBryan) [Happy Git and GitHub for the useR](https://happygitwithr.com/) book which I use any time I venture into doing anything other than stage, commit, push or pull. I actually use bitbucket rather than github for work related files but I'm trying to transfer examples where I can and also publish code through [Zenodo](https://zenodo.org/). 
+
+### Workflow
+
+A happy side effect of cruising R blogs is that I started to think about by data analysis workflow. This is something that will be a little different depending on your field but I have definitely taken inspiration from Rebecca Barter's [post on workflows](http://www.rebeccabarter.com/blog/2019-03-07_reproducible_pipeline/). I also found this [book](https://dcl-workflow.stanford.edu/) from the [Stanford Data Challenge Lab Course](https://dcl-docs.stanford.edu/home/) has some great pointers.
+
+### Writing packages
+
+I never thought I would write a package until I came across Emily Riederers [blog post](https://emilyriederer.netlify.app/post/team-of-packages/) and [talk](https://emilyriederer.netlify.app/talk/organization/) and and this [book](https://b-rodrigues.github.io/modern_R/) by Bruno Rodrigues. (https://b-rodrigues.github.io/modern_R/). But once I got to a particularly complex piece of analysis, that I also needed to share widely and realised this was actually just a neat way to document the analysis that I'd done and encourage me to develop testing 
+
+## Strucutral equation modelling packages
+
+I do quite a lot of structural equation modelling in my work. I have always used [lavaan](https://lavaan.ugent.be) and once took a plane and several trains to Jena to one of Yves Rosseel's workshops which was technical yet so entertaining. That was PhD dissertation procrastination at its best.  Recently I came across a new package for partial least squares path modelling (PLS-PM) called cSEM which has such great [documentation](https://m-e-rademaker.github.io/cSEM/) and the results are so easy to extract into neat tables for publications.
+

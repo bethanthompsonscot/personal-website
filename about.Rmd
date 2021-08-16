@@ -1,0 +1,9 @@
+---
+title: "About me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a food and agriculture researcher with a background in management consulting. I like big questions: What should we eat? How should we use our land? I also like detail questions: How can I calculate this value for every group in my data? How can I get rid of those funky symbols in that variable? I use quantitative methods to understand how we can motivate and evaluate changes that we believe will have positive social and environmental such as adopting new technologies, farming practices, reducing food waste and changing diets. I use R to make my job easier and to try to make my analysis transparent and reusable. I also enjoy teaching R and recently became an RStudio certified tidyverse instructor.

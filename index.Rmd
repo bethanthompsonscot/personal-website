@@ -1,0 +1,18 @@
+---
+title: "Bethan Thompson"
+image: "bethan.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/bethan-thompson-1b254245/"
+  - label: Twitter
+    url: "https://twitter.com/thebethan"
+  - label: GitHub
+    url: "https://github.com/bethanthompsonscot"
+  - label: Email
+    url: "thompson.bethan@gmail.com"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+I am a food and agriculture researcher based in Edinburgh, UK. I am a cooker of curries, walker of dogs and wrangler of a toddler. I recently became an RStudio certified tidyverse instructor.

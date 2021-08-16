@@ -15,4 +15,4 @@ output:
   postcards::jolla
 ---
  
-I am a food and agriculture researcher based in Edinburgh, UK. I use quantitative methods to understand how we can motivate and evaluate changes that we believe will have positive social and environmental such as adopting new technologies, farming practices, reducing food waste and changing diets. I use R to make my job easier and to try to make my analysis transparent and reusable. I also enjoy teaching R and recently became an RStudio certified tidyverse instructor.
+I am a food and agriculture researcher based in Edinburgh, UK. I use quantitative methods to understand how we can motivate and evaluate changes such as adopting new technologies, farming practices, reducing food waste and changing diets. I use R to make my job easier and to try to make my analysis transparent and reusable. I also enjoy teaching R and recently became an RStudio certified tidyverse instructor.
